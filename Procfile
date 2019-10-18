@@ -1,1 +1,1 @@
-magict: node bot.js
+workar: node bot.js
